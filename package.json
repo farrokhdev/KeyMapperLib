@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "soheil farrokhi",
   "license": "ISC",
+  "repository": "https://github.com/farrokhdev/KeyMapperLib.git",
   "scripts": {
     "compile": " tsc && tsc --build tsconfig.es5.json"
   },
