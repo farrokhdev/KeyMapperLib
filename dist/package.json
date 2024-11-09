@@ -1,5 +1,5 @@
 {
-  "name": "@keyMapper/utils",
+  "name": "@farrokhikeymapper/utils",
   "version": "1.0.0",
   "description": "takes array and field name to map",
   "main": "lib/es5/index.js",
