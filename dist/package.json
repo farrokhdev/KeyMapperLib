@@ -1,0 +1,33 @@
+{
+  "name": "@keyMapper/utils",
+  "version": "1.0.0",
+  "description": "takes array and field name to map",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "author": "soheil farrokhi",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "files": [
+    "lib",
+    "LICENCE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "javascript",
+    "typescript",
+    "array"
+  ],
+  "license": "ISC",
+  "scripts": {
+    "compile": " tsc && tsc --build tsconfig.es5.json"
+  },
+  "bugs": {
+    "url": "https://github.com/mrdoob/three.js/issues"
+  },
+  "homepage": "https://threejs.org/",
+  "devDependencies": {}
+}
